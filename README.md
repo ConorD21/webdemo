@@ -1,2 +1,1 @@
-# webdemo
-work in progress
+# playLabs2017-LabB1
